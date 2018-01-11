@@ -1,10 +1,32 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Patrick San Juan]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [January 2, Tuesday, 2018].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R1D1
+Worked on an udemy course focusing on [React Redux](https://t.co/sqlA0Lh451)
 
 ### R1D2
+Continued working on the [React Redux](https://t.co/sqlA0Lh451) tutorial. This time, focusing on the package Redux Form.
+
+### R1D3
+Continued to work on [React Redux](https://t.co/sqlA0Lh451) course. Almost done!
+
+### R1D4
+Finished the section of the [React Redux](https://t.co/sqlA0Lh451) I was working on! Moving onto a side project where I can implement my new skills.
+
+### R1D5
+Started a new side project where I will use the marvel API to create an Encyclopedia of heros!
+
+### R1D6
+Continuing with the Marvel Encyclopedia. Using the demo app I built in the udemy course as reference, slowly bootstraping my project.
+
+### R1D7
+Messing around with lodash. Makes things alot simpler. Believe in abstractions for sure.
+
+### R1D6
+Taking the challenges of merging asynchronous calls into redux head on.
+
+### R1D7
+Redux is becoming a familiar friend. Must remind myself that the key to async calls functioning sometimes is patience.
