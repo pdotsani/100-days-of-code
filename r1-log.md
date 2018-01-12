@@ -30,3 +30,6 @@ Taking the challenges of merging asynchronous calls into redux head on.
 
 ### R1D7
 Redux is becoming a familiar friend. Must remind myself that the key to async calls functioning sometimes is patience.
+
+### R1D8
+Building out tab content. React-Tabs-Redux makes this task simple. Noting like choosing the right library for the job.
