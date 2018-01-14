@@ -33,3 +33,6 @@ Redux is becoming a familiar friend. Must remind myself that the key to async ca
 
 ### R1D8
 Building out tab content. React-Tabs-Redux makes this task simple. Noting like choosing the right library for the job.
+
+### R1D9
+Used node-vibrant to extract dominant colors in the hero's image. Made that color the background!
