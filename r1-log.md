@@ -36,3 +36,7 @@ Building out tab content. React-Tabs-Redux makes this task simple. Noting like c
 
 ### R1D9
 Used node-vibrant to extract dominant colors in the hero's image. Made that color the background!
+
+### R1D10
+Refined the vibrant functionality by modifing styles on the character info page. Revised logic so page template does not load until charInfo object is complete.
+
