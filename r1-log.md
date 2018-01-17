@@ -40,3 +40,6 @@ Used node-vibrant to extract dominant colors in the hero's image. Made that colo
 ### R1D10
 Refined the vibrant functionality by modifing styles on the character info page. Revised logic so page template does not load until charInfo object is complete.
 
+### R1D11
+Refined the css on the character page and main page.
+
