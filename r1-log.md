@@ -43,3 +43,5 @@ Refined the vibrant functionality by modifing styles on the character info page.
 ### R1D11
 Refined the css on the character page and main page.
 
+### R1D12
+Tried to make a component to clean up the code and failed. Left the code the way it was. Added css transtion animation to hover styles.
