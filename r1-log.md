@@ -45,3 +45,6 @@ Refined the css on the character page and main page.
 
 ### R1D12
 Tried to make a component to clean up the code and failed. Left the code the way it was. Added css transtion animation to hover styles.
+
+### R1D13
+Experimented with font icons and animations. Refined the searchbar styles.
