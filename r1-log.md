@@ -48,3 +48,6 @@ Tried to make a component to clean up the code and failed. Left the code the way
 
 ### R1D13
 Experimented with font icons and animations. Refined the searchbar styles.
+
+### R1D14
+Learned about css components. Added loading screens and redid character list selection.
