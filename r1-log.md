@@ -51,3 +51,6 @@ Experimented with font icons and animations. Refined the searchbar styles.
 
 ### R1D14
 Learned about css components. Added loading screens and redid character list selection.
+
+### R1D15
+Learned more react-redux concepts. Stuidied vagrantbox and docker.
