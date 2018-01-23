@@ -54,3 +54,6 @@ Learned about css components. Added loading screens and redid character list sel
 
 ### R1D15
 Learned more react-redux concepts. Stuidied vagrantbox and docker.
+
+### R1D16
+Udacity videos on reselect and data loading methods.
