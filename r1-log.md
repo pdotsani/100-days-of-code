@@ -61,3 +61,6 @@ Udacity videos on reselect and data loading methods.
 ### R1D17
 Work stuff. Command line interface debugging and building.
 
+### R1D18
+Deeper dives into redux format and data structure. Slight refactor of mavel-pedia with a 'dash' of lodash.
+
