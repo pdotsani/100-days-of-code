@@ -57,3 +57,7 @@ Learned more react-redux concepts. Stuidied vagrantbox and docker.
 
 ### R1D16
 Udacity videos on reselect and data loading methods.
+
+### R1D17
+Work stuff. Command line interface debugging and building.
+
