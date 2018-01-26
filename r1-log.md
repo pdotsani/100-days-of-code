@@ -64,3 +64,5 @@ Work stuff. Command line interface debugging and building.
 ### R1D18
 Deeper dives into redux format and data structure. Slight refactor of mavel-pedia with a 'dash' of lodash.
 
+### R1D19
+Continue to build cli tool for optimizely. Added a tampermonkey feature for local preview.
